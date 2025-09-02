@@ -1,2 +1,3 @@
-Event Flyer
-A basic HTML flyer built as my first mini-project while learning web development. Focused on using semantic tags, headings, images, and lists.
+# Fun Run Flyer
+This is a basic HTML flyer project created as part of my web development practice. It contains semantic HTML structure, headings, list, and contact info. Built from scratch and deployed on GithHub Pages.
+Live Site:[Clicke here](https://shortyclicks808.github.io/Fun-Run-Event-Flyer/)
